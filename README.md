@@ -18,6 +18,7 @@ example : {
 
 ### Patron Controller with the following endpoints
 ● GET /api/patrons: Retrieve a list of all patrons.
+
 ● GET /api/patrons/{id}: Retrieve details of a specific patron by ID.
 ● POST /api/patrons: Add a new patron to the system.
 ● PUT /api/patrons/{id}: Update an existing patron's information.
